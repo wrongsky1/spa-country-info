@@ -4,7 +4,7 @@ This is a solution to the [REST Countries API with color theme switcher challeng
 
 # TODO
 
-[] Переключение светлой/темной темы
+[x] Переключение светлой/темной темы
 [] Получение списка стран и вывод в UI
 [] Фильтрация стран по поиску
 [] Фильтрация стран по региону
