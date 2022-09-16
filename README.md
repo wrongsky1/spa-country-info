@@ -1,6 +1,6 @@
 # SPA Country-Info  
 
-Посмотреть результат -> [demo](https://wrongsky1.github.io/food-project/)
+Посмотреть результат -> [demo](https://spa-country-info.vercel.app)
 
 ## TODO  
 [x] Переключение светлой/темной темы   
