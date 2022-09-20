@@ -15,7 +15,7 @@ const controlsSlice = createSlice({
         setRegion: (state, action) => {
             state.region = action.payload;
         },
-        clearControls: (state, action) => initialState,
+        clearControls: () => initialState,
     },
 });
 
